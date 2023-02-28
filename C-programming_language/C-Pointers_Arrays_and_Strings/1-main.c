@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints address of variables
+ * main - prints address of variables.
  *
  * Return: 0 (success)
  */
