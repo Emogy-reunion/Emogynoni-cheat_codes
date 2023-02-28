@@ -15,4 +15,5 @@ Each of the files below contains a program that:
 
     File                                                               |        Description
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-0-main.c                                                               | Determine the size of char, int, float and double 
+0-main.c                                                               | Determine the size of char, int, float and double
+1-main.c                                                               | Prints the address of variables 
